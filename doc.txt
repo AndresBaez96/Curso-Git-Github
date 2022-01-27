@@ -1,3 +1,9 @@
-Una prueba 
-Segunda prueba
-Tercera y cuarta prueba
+Esta es la historia de Andrés Báez
+
+Andrés tiene 25 años
+
+Andrés vive en Bogotá
+
+Andrés es ingeniero mecánico de la Universidad Nacional
+
+Andrés quiere trabajar en un futuro con datos
