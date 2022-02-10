@@ -1,5 +1,5 @@
 # Curso-Git & Github 💚
-Aplicando lo visto en clase del[curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
+Aplicando lo visto en clase del[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 > Fue un reto personal porque todo lo hice desde WSL en Windows, es la primera vez que la uso y me ha parecido súper útil.
 > - Andrés
 
